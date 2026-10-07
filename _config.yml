@@ -1,0 +1,8 @@
+title: CardioIA
+description: Proyecto académico de inteligencia artificial para explorar la detección de afecciones cardíacas con XGBoost.
+theme: jekyll-theme-architect
+lang: es
+
+markdown: kramdown
+sass:
+  style: compressed
